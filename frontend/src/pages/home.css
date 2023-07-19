@@ -1,0 +1,48 @@
+.alert-enter {
+  opacity: 0;
+  transform: scale(0.9);
+}
+.alert-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms, transform 300ms;
+}
+.alert-exit {
+  opacity: 1;
+}
+.alert-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+@media screen and (max-width: 1023px) {
+  .chat-page {
+    min-width: 600px;
+  }
+}
+#home{
+  background:url(".././assets/Chatroom.png");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  padding: 2%
+  
+}
+#enter_btn{
+  /* background:url(".././assets/enter.jpg"); */
+  background:url(".././assets/enter.png");
+  /* background:url(".././assets/finger-touching-button-start.jpg"); */
+  background-size: cover;
+  /* margin-bottom: 100px; */
+  margin-top: 65vh;
+  margin-left: 80vh;
+  height: 15vw;
+  width: 18vw;
+  /* border-radius: 100px; */
+  /* border-bottom: 50px; */
+  /* box-shadow: 50px; */
+ 
+}   
