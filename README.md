@@ -27,10 +27,7 @@
    In the first terminal
    - cd frontend and create a .env file in the root of your client directory.
    - Supply the following credentials
-   [block:parameters]
-    { hi
-     }
-    [/block]
+  
 
 
 
