@@ -32,27 +32,25 @@
   REACT_APP_GOOGLE_CLIENT_ID =
   REACT_APP_SERVER_URL='http://localhost:8000'
   </code></pre>
-
-   <pre><code>
+  
    $ cd frontend
    $ npm install (to install client-side dependencies)
    $ npm start (to start the client)
-   </code></pre>
    
    In the second terminal
    - cd server and create a .env file in the root of your server directory.
    - Supply the following credentials
-    <pre><code>
-    PORT=8000
-    URL=
-    SECRET=
-    CLIENT_ID=
-    BASE_URL="http://localhost:3000"
-    </code></pre>
+   <pre><code>
+   PORT=8000
+   URL=
+   SECRET=
+   CLIENT_ID=
+   BASE_URL="http://localhost:3000"
+   </code></pre>
 
-    $ cd backend
-    $ npm install (to install server-side dependencies)
-    & npm start (to start the server)
+   $ cd backend
+   $ npm install (to install server-side dependencies)
+   & npm start (to start the server)
    
 
  
