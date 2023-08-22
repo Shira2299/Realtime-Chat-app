@@ -8,24 +8,24 @@
 - Redux Toolkit
 - Tailwind CSS
 
-  # Features
-  - Real-time chat: users can send and receive messages in real-time
-  - User authentication: users can sign up, log in, and log out using JWT and Google Auth
-  - Group creation: users can create chat rooms and invite others to join
-  - Notifications: users can receive notifications on new messages
-  - Emojis: users can send and receive emojis in messages
-  - Profile page where users can update their avatar and display name.
-  - Users can create a room to chat with others.
-  - Search functionality.
-  - Responsive design: the website is optimized for different screen sizes and devices
+# Features
+- Real-time chat: users can send and receive messages in real-time
+- User authentication: users can sign up, log in, and log out using JWT and Google Auth
+- Group creation: users can create chat rooms and invite others to join
+- Notifications: users can receive notifications on new messages
+- Emojis: users can send and receive emojis in messages
+- Profile page where users can update their avatar and display name.
+- Users can create a room to chat with others.
+- Search functionality.
+- Responsive design: the website is optimized for different screen sizes and devices
 
-  # Configuration and Setup
-   In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
-   - Open the project in your prefered code editor.
-   - Go to terminal -> New terminal (If you are using VS code)
-   - Split your terminal into two (run the client on one terminal and the server on the other terminal)
+# Configuration and Setup
+ In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+ - Open the project in your prefered code editor.
+ - Go to terminal -> New terminal (If you are using VS code)
+ - Split your terminal into two (run the client on one terminal and the server on the other terminal)
      
-   In the first terminal
+  In the first terminal
    - cd frontend and create a .env file in the root of your client directory.
    - Supply the following credentials
   
