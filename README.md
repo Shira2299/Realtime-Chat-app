@@ -34,6 +34,11 @@
    
     REACT_APP_SERVER_URL = 'http://localhost:8000'` 
 
+    `$ cd frontend
+     $ npm install (to install client-side dependencies)
+     $ npm start (to start the client)`
+ 
+
   
 
 
