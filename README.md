@@ -28,6 +28,9 @@
   In the first terminal
    - cd frontend and create a .env file in the root of your client directory.
    - Supply the following credentials
+
+  Set your `REACT_APP_GOOGLE_CLIENT_ID` and `REACT_APP_SERVER_URL` environment variables as follows:
+
   
 
 
