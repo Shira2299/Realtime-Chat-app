@@ -38,7 +38,9 @@
    $ npm install (to install client-side dependencies)
    $ npm start (to start the client)
    </code></pre>
-
+   In the second terminal
+   - cd server and create a .env file in the root of your server directory.
+   - Supply the following credentials
 
  
 
