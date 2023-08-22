@@ -50,9 +50,11 @@
    BASE_URL="http://localhost:3000"
    </code></pre>
 
+   <pre><code>
    $ cd backend
    $ npm install (to install server-side dependencies)
    & npm start (to start the server)
+   </code></pre>
    
 
  
