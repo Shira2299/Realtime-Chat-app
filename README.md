@@ -41,6 +41,19 @@
    In the second terminal
    - cd server and create a .env file in the root of your server directory.
    - Supply the following credentials
+    <pre><code>
+    PORT=8000
+    URL=
+    SECRET=
+    CLIENT_ID=
+    BASE_URL="http://localhost:3000"
+   </code></pre>
+
+    <pre><code>
+    $ cd backend
+    $ npm install (to install server-side dependencies)
+    & npm start (to start the server)
+    </code></pre>
 
  
 
