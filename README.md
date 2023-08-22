@@ -31,7 +31,7 @@
 
    `REACT_APP_GOOGLE_CLIENT_ID=
    
-    REACT_APP_SERVER_URL='http://localhost:8000'` 
+    REACT_APP_SERVER_URL = 'http://localhost:8000'` 
 
   
 
